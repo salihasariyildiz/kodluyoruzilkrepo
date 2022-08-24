@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Back-End Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. 
 
-[![image](https://r.resimlink.com/7SV03PLKt.png)](https://resimlink.com/7SV03PLKt)
+![image](https://r.resimlink.com/7SV03PLKt.png)
 
 ## Installation 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek.)
@@ -26,3 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 ## Licence 
 [MIT](https://github.com/salihasariyildiz/kdoluyoruzilkrepo/blob/main/LICENSE)
+https://r.resimlink.com/7SV03PLKt.png
